@@ -1,8 +1,7 @@
 # AIHairTryOn
 Find Your Perfect Hairstyle according to face shape 
-Based on the website URL you provided (https://app.besthairstyleformen.in/), I'll create a comprehensive README.md file for your AI Hair Try-On project. Since I can't directly access the website, I'll structure this based on common features of AI hairstyle applications and the domain name (which suggests it's focused on men's hairstyles).
+Based on Face shape (https://app.besthairstyleformen.in/)
 
-```markdown
 # AI Hair Try-On Application
 
 ## Overview
@@ -127,4 +126,4 @@ For support, please contact support@besthairstyleformen.in or create an issue on
 - [ ] Multi-language support
 ```
 
-This README provides a comprehensive overview of your AI Hair Try-On application. You should customize it further based on the actual implementation details of your website. If you can provide more specific information about your technology stack, features, or architecture, I can refine this README to better match your actual project.
+This README provides a comprehensive overview of your AI Hair Try-On application. You should customize it further based on the actual implementation details of your website.
