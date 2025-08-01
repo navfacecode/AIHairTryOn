@@ -1,8 +1,8 @@
 # AIHairTryOn
-Find Your Perfect Hairstyle according to face shape 
+Find Your Perfect Hairstyle 
 Based on Face shape (https://app.besthairstyleformen.in/)
 
-# AI Hair Try-On Application
+# Find Your Perfect Hairstyle according to face shape 
 
 ## Overview
 AIHairTryOn is a web-based application that allows users to virtually try different hairstyles using artificial intelligence. The application provides a realistic preview of how various hairstyles would look on the user's own photo, helping them make informed decisions before getting a haircut.
